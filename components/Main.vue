@@ -3,7 +3,7 @@
     <!-- bg-[#eff0f3] -->
     <div class="relative">
       <textarea
-      class="user-input bg-transparent outline outline-1 p-2 w-[360px] h-[80vh]"
+      class="user-input bg-gray-400 outline outline-1 p-2 w-[360px] h-[80vh]"
       v-model="userInput"
       name="path"
       id="p1"
