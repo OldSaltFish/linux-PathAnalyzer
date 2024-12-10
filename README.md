@@ -38,5 +38,5 @@ https://www.cnblogs.com/oldsaltfish/p/18596199
 - <a href="https://icones.js.org/">icones</a>
 - <a href="https://pages.cloudflare.com/">CloudFlare</a>
 ## 协议/License
-此源代码按照许可证文件中描述的AGPL v3授权。  
-This source code is licensed under the AGPL v3 as described in the LICENSE file.
+此源代码按照许可证文件中描述的GPL v3授权。  
+This source code is licensed under the GPL v3 as described in the LICENSE file.
