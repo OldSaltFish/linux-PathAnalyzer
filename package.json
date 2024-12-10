@@ -7,16 +7,17 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
+    "preinstall": "npx only-allow pnpm",
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/ui": "3.0.0-alpha.10",
     "nuxt": "^3.14.159",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-clipboard3": "^2.0.0"
   },
   "devDependencies": {
-    "@nuxt/devtools": "^1.6.1",
-    "@nuxtjs/tailwindcss": "^6.12.2"
+    "@nuxt/devtools": "^1.6.1"
   },
   "packageManager": "pnpm@9.4.0+sha1.9217c800d4ab947a7aee520242a7b70d64fc7638"
 }
